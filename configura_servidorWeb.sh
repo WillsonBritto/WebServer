@@ -16,3 +16,5 @@ cp cv-completo.html /var/www/html/
 cp cv-resumido.html /var/www/html/
 cp style.css /var/www/html/
 
+rm /var/www/html/index.html
+
